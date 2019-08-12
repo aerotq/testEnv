@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://62.234.223.249:7777/group1/M00/00/59/rBUQDl0i5laAN6WBAQpYancOQZc115.ipa</string>
+<string>http://62.234.223.249:7777/group1/M00/00/62/rBUQDl1RAMyALF1lAQqK5eIa1MM245.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -31,7 +31,7 @@
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>昆明机场测试包</string>
+<string>昆明机场机坪运行综合管理系统</string>
 </dict>
 </dict>
 </array>
